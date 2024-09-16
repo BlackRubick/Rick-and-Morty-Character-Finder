@@ -46,7 +46,7 @@ class _HomeScreenState extends State<HomeScreen> {
         ),
       ),
     ),
-    SearchScreen(),  // Pantalla de búsqueda actualizada
+    SearchScreen(),  
   ];
 
   void _onItemTapped(int index) {
